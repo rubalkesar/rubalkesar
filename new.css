@@ -1,0 +1,22 @@
+.jumbotron{
+    background-color: rgb(255, 78, 78);
+}
+ul{
+    list-style: none;
+}
+.a2{
+    display: inline;
+    width:100px;
+
+    text-decoration: none;
+}
+.a2 a{
+    width: 20%;
+    float: right;
+    height: 40px;
+    border: 1px solid;
+    background-color: rgb(255, 78, 78) ;
+    text-decoration: none;
+    
+  
+}
